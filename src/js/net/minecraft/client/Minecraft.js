@@ -47,7 +47,7 @@ export default class Minecraft {
         this.world = null;
         this.player = null;
         this.playerController = null;
-        this.fps = 0;
+        this.fps = 1337;
         this.maxFps = 0;
 
         // Tick timer
